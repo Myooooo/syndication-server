@@ -1,11 +1,6 @@
 /** 
-* Distributed Systems Assignment 2 2021
-* 
 * ContentServer.java
 * This file implements the content server
-*  
-* @author Moyang Feng a1726464
-* @date 04/10/2021
 */
 
 package ds.assignment2;
