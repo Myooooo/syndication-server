@@ -1,11 +1,6 @@
 /** 
-* Distributed Systems Assignment 2 2021
-* 
 * AggregationServer.java
 * This file implements the aggregation server
-*  
-* @author Moyang Feng a1726464
-* @date 04/10/2021
 */
 
 package ds.assignment2;
