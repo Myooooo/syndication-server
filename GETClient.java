@@ -1,11 +1,6 @@
 /** 
-* Distributed Systems Assignment 2 2021
-* 
 * GETClient.java
 * This file implements the GET client
-*  
-* @author Moyang Feng a1726464
-* @date 04/10/2021
 */
 
 package ds.assignment2;
